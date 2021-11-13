@@ -4,13 +4,9 @@
 - [instagram](https://www.instagram.com/rachman2108/)
 - [linkedin](https://www.linkedin.com/in/rachman-aldiansyah-a00a7a222/)
 - [facebook](https://www.facebook.com/rachman.aldiansyah.52/)
-### 💬 Ask me about Java
-### ⚡ Fun fact:
-- Gaming
-- Watching Anime
+### 💬 Ask me about HTML,CSS,JS,PHP,Java
 
-[![Rachman's GitHub stats](https://github-readme-stats.vercel.app/api?username=RACHMAN21&layout=compact&show_icons=true&theme=merko)](https://github.com/RACHMAN21/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RACHMAN21&layout=compact&theme=merko)](https://github.com/RACHMAN21/github-readme-stats)
+[![Rachman's GitHub stats](https://github-readme-stats.vercel.app/api?username=RACHMAN21&layout=demo&show_icons=true&theme=merko)](https://github.com/RACHMAN21/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RACHMAN21&layout=demo&theme=merko)](https://github.com/RACHMAN21/github-readme-stats)
 
 <!--
 **RACHMAN21/RACHMAN21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
