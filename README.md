@@ -1,11 +1,11 @@
-### Hi there 👋, This is Rachman Aldiansyah
-# 🌱 I’m currently learning Boostraps & Laravel
-# 📫 How to reach me:
+## Hi there 👋, This is Rachman Aldiansyah
+### 🌱 I’m currently learning Boostraps & Laravel
+### 📫 How to reach me:
 - [instagram](https://www.instagram.com/rachman2108/)
 - [linkedin](https://www.linkedin.com/in/rachman-aldiansyah-a00a7a222/)
 - [facebook](https://www.facebook.com/rachman.aldiansyah.52/)
-# 💬 Ask me about HTML,CSS,JS,PHP
-# ⚡ Fun fact:
+### 💬 Ask me about HTML,CSS,JS,PHP
+### ⚡ Fun fact:
 - Gaming
 - Watching Anime
 
