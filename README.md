@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, This is Rachman Aldiansyah
+- 🌱 I’m currently learning HTML,CSS,PHP,Java & Kotlin
+- 📫 How to reach me: ...
+
+[![Rachman's GitHub stats](https://github-readme-stats.vercel.app/api?username=RACHMAN21)](https://github.com/RACHMAN21/github-readme-stats)
 
 <!--
 **RACHMAN21/RACHMAN21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
