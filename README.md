@@ -1,5 +1,5 @@
 ## Hi there! 👋
-My name is Rachman Aldiansyah and I'm Junior front-end developer, I'm from Indonesia, living in West Java and school at Indonesian Computer University.
+My name is Rachman Aldiansyah and I'm Junior front-end developer, I'm from Indonesia, living in West Java, Bandung and school at Indonesian Computer University.
 
 **🌱 I’m currently learning Kotlin**
 
@@ -9,6 +9,7 @@ My name is Rachman Aldiansyah and I'm Junior front-end developer, I'm from Indon
 - [instagram](https://www.instagram.com/rachman2108/)
 - [linkedin](https://www.linkedin.com/in/rachman-aldiansyah-a00a7a222/)
 - [facebook](https://www.facebook.com/rachman.aldiansyah.52/)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RACHMAN21&layout=demo&theme=merko" width="255" height="255"/>
 </a>
