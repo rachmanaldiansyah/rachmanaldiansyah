@@ -3,7 +3,7 @@
 - 📫 How to reach me:
 
 [![Rachman's GitHub stats](https://github-readme-stats.vercel.app/api?username=RACHMAN21&show_icons=true&theme=dracula)](https://github.com/RACHMAN21/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RACHMAN21&layout=compact)](https://github.com/RACHMAN21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RACHMAN21&layout=compact&theme=dracula)](https://github.com/RACHMAN21/github-readme-stats)
 
 <!--
 **RACHMAN21/RACHMAN21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
