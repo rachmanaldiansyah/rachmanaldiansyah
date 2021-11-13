@@ -1,14 +1,21 @@
 ## Hi there! 👋
 My name is Rachman Aldiansyah and I'm Junior front-end developer, I'm from Indonesia, living in West Java and school at Indonesian Computer University.
 
-**🌱 I’m currently learning:** Kotlin
-**💬 Ask me about:** Java
+**🌱 I’m currently learning Kotlin**
+
+**💬 Ask me about Java**
+
 **📫 How to reach me:**
 - [instagram](https://www.instagram.com/rachman2108/)
 - [linkedin](https://www.linkedin.com/in/rachman-aldiansyah-a00a7a222/)
 - [facebook](https://www.facebook.com/rachman.aldiansyah.52/)
 
-[![Rachman's GitHub stats](https://github-readme-stats.vercel.app/api?username=RACHMAN21&layout=compact&show_icons=true&theme=merko)](https://github.com/RACHMAN21/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RACHMAN21&layout=compact&show_icons=true&theme=merko)](https://github.com/RACHMAN21/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RACHMAN21&layout=demo&theme=merko" width="250" height="250"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RACHMAN21&show_icons=true&theme=merko" width="430" height="250"/>
+</a>
 
 <!--
 **RACHMAN21/RACHMAN21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
