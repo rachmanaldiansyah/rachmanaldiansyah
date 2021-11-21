@@ -1,9 +1,9 @@
 ## Hi there! 👋
 My name is Rachman Aldiansyah and I'm Junior front-end developer, I'm from Indonesia, living in West Java, Bandung and school at Indonesian Computer University.
 
-**🌱 I’m currently learning Kotlin**
+**🌱 I’m currently learning HTML,CSS,Javascript**
 
-**💬 Ask me about Java**
+**💬 Ask me about HTML,CSS**
 
 **📫 How to reach me:**
 - [instagram](https://www.instagram.com/rachman2108/)
