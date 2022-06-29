@@ -11,10 +11,10 @@ My name is Rachman Aldiansyah and I'm Junior front-end developer.
 - [facebook](https://www.facebook.com/rachman.aldiansyah.52/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RACHMAN21&layout=demo&theme=merko" width="50%" height="250px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RACHMAN21&layout=demo&theme=merko" width="50%" height="20%"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RACHMAN21&show_icons=true&theme=merko" width="50%" height="250px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RACHMAN21&show_icons=true&theme=merko" width="50%" height="20%" />
 </a>
 
 <!--
