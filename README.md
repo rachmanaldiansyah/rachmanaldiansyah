@@ -5,16 +5,13 @@ My name is Rachman Aldiansyah and I'm Junior front-end developer.
 
 **💬 Ask me about HTML,CSS & JS**
 
-**📫 How to reach me:**
-- [instagram](https://www.instagram.com/rachman2108/)
-- [linkedin](https://www.linkedin.com/in/rachman-aldiansyah-a00a7a222/)
-- [facebook](https://www.facebook.com/rachman.aldiansyah.52/)
+**📫 How to reach me:** [linkedin](https://www.linkedin.com/in/rachman-aldiansyah-a00a7a222/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RACHMAN21&layout=demo&theme=merko" width="50%" height="20%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RACHMAN21&layout=demo&theme=merko" width="25%" height="25%"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RACHMAN21&show_icons=true&theme=merko" width="50%" height="20%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RACHMAN21&show_icons=true&theme=merko" width="60%"/>
 </a>
 
 <!--
