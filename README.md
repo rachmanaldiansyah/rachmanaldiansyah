@@ -1,11 +1,13 @@
 ## Hi there! 👋
-My name is Rachman Aldiansyah and I'm Junior front-end developer.
+**I'm Rachman Aldiansyah a passionate Front-End Web Developer**
 
 **🌱 I’m currently learning HTML,CSS,Javascript**
 
 **💬 Ask me about HTML,CSS & JS**
 
 **📫 How to reach me:** [linkedin](https://www.linkedin.com/in/rachman-aldiansyah-a00a7a222/)
+
+**📊 I spent my time on:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RACHMAN21&layout=demo&theme=merko" width="25%" height="25%"/>
