@@ -1,9 +1,9 @@
 ## Hi there! 👋
 **I'm Rachman Aldiansyah a passionate Front-End Web Developer**
 
-**🌱 I’m currently learning HTML,CSS,Javascript**
+**🌱 I’m currently learning HTML, CSS & JS**
 
-**💬 Ask me about HTML,CSS & JS**
+**💬 Ask me about HTML, CSS & JS**
 
 **📫 How to reach me:** [linkedin](https://www.linkedin.com/in/rachman-aldiansyah-a00a7a222/)
 
