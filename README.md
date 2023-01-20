@@ -44,3 +44,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
+
+<p>
+<a href="https://github.com/RACHMAN21">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RACHMAN21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RACHMAN21&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
