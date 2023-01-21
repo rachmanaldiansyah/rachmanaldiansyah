@@ -15,7 +15,7 @@
 <h3>Connect with me:</h3>
 <p>
 <a href="https://www.linkedin.com/in/rachman-aldiansyah-a00a7a222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rachman-aldiansyah-a00a7a222/" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="#" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14044981/rachman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/14044981/rachman" height="30" width="40" /></a>
 <a href="https://instagram.com/rachman2108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rachman2108" height="30" width="40" /></a>
 <a href="https://medium.com/@rachmanaldiansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rachmanaldiansyah" height="30" width="40" /></a>
 </p>
