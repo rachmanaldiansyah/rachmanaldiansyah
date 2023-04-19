@@ -1,11 +1,11 @@
 <h1>I'm Rachman Aldiansyah 👋</h1>
-<h3>Junior Frontend Web Developer</h3>
+<h3>Junior Web Developer</h3>
 
-<p>🌱 I’m currently learning <strong>Javascript & React</strong></p>
+<p>🌱 I’m currently learning <strong>Hyperledger Fabric & Ethereum</strong></p>
 
-<p>👯 I’m looking to collaborate on <strong>open source projects related to React and JavaScript.</strong></p>
+<p>👯 I’m looking to collaborate on <strong>open source projects related to Decentralized Application (Dapp).</strong></p>
 
-<p>💬 Ask me about <strong>MERN</strong></p>
+<p>💬 Ask me about <strong>Blockchain Network</strong></p>
 
 <p>📫 How to reach me <a href="mailto:rachmanaldiansyah03@gmail.com"><strong>rachmanaldiansyah03@gmail.com</strong></a></p>
 
