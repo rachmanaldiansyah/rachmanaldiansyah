@@ -5,12 +5,7 @@
 
 <p>👯 I’m looking to collaborate on <strong>open source projects related to Decentralized Application (Dapp).</strong></p>
 
-<p>💬 Ask me about <strong>Blockchain Network</strong></p>
-
 <p>📫 How to reach me <a href="mailto:rachmanaldiansyah03@gmail.com"><strong>rachmanaldiansyah03@gmail.com</strong></a></p>
-
-<p>😅 Fun fact <strong>The first time I started programming was not "Hello World!"</strong></p>
-
 
 <h3>Connect with me:</h3>
 <p>
