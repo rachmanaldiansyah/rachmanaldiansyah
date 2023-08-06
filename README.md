@@ -1,3 +1,4 @@
+<p><img src="https://komarev.com/ghpvc/?username=rachmanaldiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="rachmanaldiansyah" /></p>
 <h1>I'm Rachman Aldiansyah 👋</h1>
 <h3>Junior Web Developer</h3>
 
@@ -36,8 +37,8 @@
 </p>
 
 <p>
-<a href="https://github.com/RACHMAN21">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RACHMAN21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RACHMAN21&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/rachmanaldiansyah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rachmanaldiansyah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rachmanaldiansyah&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
