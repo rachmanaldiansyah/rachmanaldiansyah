@@ -3,7 +3,7 @@
 <h3>Junior Fullstack Developer</h3>
 
 <p>🌱 I’m currently learning <strong>Mobile & Web Development</strong></p>
-<p>👯 I’m looking to collaborate on <strong>open source projects related to Web App or Decentralized App.</strong></p>
+<p>👯 I’m looking to collaborate on <strong>open source projects related to Web or Mobile App</strong></p>
 <p>📫 How to reach me <a href="mailto:rachmanaldiansyah03@gmail.com"><strong>rachmanaldiansyah03@gmail.com</strong></a></p>
 
 <h3>Connect with me:</h3>
