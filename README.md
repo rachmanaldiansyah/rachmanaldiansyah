@@ -2,8 +2,8 @@
 <h1>I'm Rachman Aldiansyah 👋</h1>
 <h3>Junior Fullstack Developer</h3>
 
-<p>🌱 I’m currently learning <strong>Mobile & Web Development</strong></p>
-<p>👯 I’m looking to collaborate on <strong>open source projects related to Web or Mobile App</strong></p>
+<p>🌱 I’m currently learning <strong>Mobile Development</strong></p>
+<p>👯 I’m looking to collaborate on <strong>open source projects related to Mobile App</strong></p>
 <p>📫 How to reach me <a href="mailto:rachmanaldiansyah03@gmail.com"><strong>rachmanaldiansyah03@gmail.com</strong></a></p>
 
 <h3>Connect with me:</h3>
@@ -36,10 +36,13 @@
   <a href="https://developer.android.com/studio?hl=id" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>
   </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart" width="40" height="40" />
+  </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" />
   </a>
-  <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer">
+<!--   <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
@@ -50,7 +53,7 @@
   </a>
   <a href="https://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html" target="_blank" rel="noreferrer">
     <img src="https://www.hyperledger.org/hs-fs/hubfs/Hyperledger_Fabric_Logo_Color.png?width=250&height=70&name=Hyperledger_Fabric_Logo_Color.png" alt="hyperledger-fabric" height="40"/>
-  </a>
+  </a> -->
 </p>
 
 <p>
