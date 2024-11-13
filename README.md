@@ -48,10 +48,6 @@
   <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
-  </a>
-  
 </p>
 
 <p>
