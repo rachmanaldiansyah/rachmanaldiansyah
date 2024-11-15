@@ -1,9 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=rachmanaldiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="rachmanaldiansyah" />
 <h1>I'm Rachman Aldiansyah 👋</h1> 
-<h3>Junior Mobile Developer</h3>
+<h3>A passionate mobile developer.</h3>
 
-<p>🌱 I’m currently learning <strong>flutter mobile development</strong></p>
-<p>👯 I’m looking to collaborate on <strong>open source projects related to Mobile App</strong></p>
+<p>🔭 I’m currently working on <strong>Flutter (Mobile Development)</strong></p>
+<p>🌱 I’m currently learning <strong>Dart/Flutter</strong></p>
+<p>👯 I’m looking to collaborate on <strong>Open Source Projects Related to Mobile App</strong></p>
 <p>📫 How to reach me <a href="mailto:rachmanaldiansyah03@gmail.com"><strong>rachmanaldiansyah03@gmail.com</strong></a></p>
 
 <h3>Connect with me:</h3>
