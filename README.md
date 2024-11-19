@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=rachmanaldiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="rachmanaldiansyah" />
+<!-- <img src="https://komarev.com/ghpvc/?username=rachmanaldiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="rachmanaldiansyah" /> -->
 <h1>I'm Rachman Aldiansyah 👋</h1>
 <h3>A passionate mobile developer.</h3>
 
