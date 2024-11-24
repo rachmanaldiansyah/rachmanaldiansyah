@@ -22,47 +22,47 @@
 ###
 
 <div align="left">
-  <a href="https://git-scm.com">
+  <a href="https://git-scm.com" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   </a>
   <img width="10" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   </a>
   <img width="10" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   </a>
   <img width="10" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   </a>
   <img width="10" />
-  <a href="https://www.typescriptlang.org">
+  <a href="https://www.typescriptlang.org" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   </a>
   <img width="10" />
-  <a href="https://developer.android.com/courses?gad_source=1&gclid=CjwKCAiAl4a6BhBqEiwAqvrqun1A2OXdo6M6_k5HT0dDZO07KRE4nnv-OZvPOVB-TJpb2xz5KnfoJxoCeMAQAvD_BwE&gclsrc=aw.ds&hl=id">
+  <a href="https://developer.android.com" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   </a>
   <img width="10" />
-  <a href="https://developer.android.com/courses?gad_source=1&gclid=CjwKCAiAl4a6BhBqEiwAqvrqun1A2OXdo6M6_k5HT0dDZO07KRE4nnv-OZvPOVB-TJpb2xz5KnfoJxoCeMAQAvD_BwE&gclsrc=aw.ds&hl=id">
+  <a href="https://developer.android.com" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   </a>
   <img width="10" />
-  <a href="https://dart.dev">
+  <a href="https://dart.dev" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   </a>
   <img width="10" />
-  <a href="https://flutter.dev">
+  <a href="https://flutter.dev" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   </a>
   <img width="10" />
-  <a href="https://www.postgresql.org">
+  <a href="https://www.postgresql.org" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   </a>
   <img width="10" />
-  <a href="https://www.mysql.com">
+  <a href="https://www.mysql.com" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   </a>
 </div>
