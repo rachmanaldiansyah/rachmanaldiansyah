@@ -1,26 +1,31 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=rachmanaldiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="rachmanaldiansyah" /> -->
 <h1>I'm Rachman Aldiansyah 👋</h1>
-<h3>A passionate mobile developer.</h3>
 
-<p>🔭 I’m currently working on <strong>Dart/Flutter (Mobile Development)</strong></p>
-<p>🌱 I’m currently learning on <strong>Dart/Flutter</strong></p>
-<p>👯 I’m looking to collaborate on <strong>Open Source Projects Related to Mobile App</strong></p>
-<p>📫 How to reach me <a href="mailto:rachmanaldiansyah03@gmail.com"><strong>rachmanaldiansyah03@gmail.com</strong></a></p> 
+###
 
-<h3 align="left">💻 Connect with me.</h3>
+<img align="right" height="150" src="https://tenor.com/id/view/raining-pixel-gamer-pc-gif-16993848.gif"  />
 
 ###
 
 <div align="left">
+  <h3>A passionate mobile developer.</h3>
+  <p>🔭 I’m currently working on <strong>Dart/Flutter (Mobile Development)</strong></p>
+  <p>🌱 I’m currently learning on <strong>Dart/Flutter</strong></p>
+  <p>👯 I’m looking to collaborate on <strong>Open Source Projects Related to Mobile App</strong></p>
+  <!-- <p>📫 How to reach me <a href="mailto:rachmanaldiansyah03@gmail.com"><strong>rachmanaldiansyah03@gmail.com</strong></a></p>  -->
+</div>
+
+<h3 align="left">💻 Connect with me.</h3>
+<div align="left">
+  <a href="mailto:rachmanaldiansyah03@gmail.com" target="blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/rachman-aldiansyah-a00a7a222/" target="blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 <h3 align="left">🛠 Language and tools.</h3>
-
-###
-
 <div align="left">
   <a href="https://git-scm.com" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
