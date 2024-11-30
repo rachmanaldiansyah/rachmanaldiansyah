@@ -1,5 +1,8 @@
-<!-- <img src="https://komarev.com/ghpvc/?username=rachmanaldiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="rachmanaldiansyah" /> -->
-<h1>I'm Rachman Aldiansyah 👋</h1>
+<img src="https://komarev.com/ghpvc/?username=rachmanaldiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="rachmanaldiansyah" />
+
+###
+
+<h1>Hello! I'm Rachman Aldiansyah 👋</h1>
 
 ###
 
@@ -12,10 +15,14 @@
   <p>🔭 I’m currently working on <strong>Dart/Flutter (Mobile Development)</strong></p>
   <p>🌱 I’m currently learning on <strong>Dart/Flutter</strong></p>
   <p>👯 I’m looking to collaborate on <strong>Open Source Projects Related to Mobile App</strong></p>
-  <!-- <p>📫 How to reach me <a href="mailto:rachmanaldiansyah03@gmail.com"><strong>rachmanaldiansyah03@gmail.com</strong></a></p>  -->
 </div>
 
+###
+
 <h3 align="left">💻 Connect with me.</h3>
+
+###
+
 <div align="left">
   <a href="mailto:rachmanaldiansyah03@gmail.com" target="blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -25,51 +32,28 @@
   </a>
 </div>
 
+###
+
 <h3 align="left">🛠 Language and tools.</h3>
+
+###
+
 <div align="left">
-  <a href="https://git-scm.com" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  </a>
-  <img width="10" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  </a>
-  <img width="10" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  </a>
-  <img width="10" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  </a>
-  <img width="10" />
-  <a href="https://www.typescriptlang.org" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  </a>
-  <img width="10" />
-  <a href="https://developer.android.com" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  </a>
-  <img width="10" />
-  <a href="https://developer.android.com" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  </a>
-  <img width="10" />
-  <a href="https://dart.dev" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  </a>
-  <img width="10" />
-  <a href="https://flutter.dev" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  </a>
-  <img width="10" />
-  <a href="https://www.postgresql.org" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  </a>
-  <img width="10" />
-  <a href="https://www.mysql.com" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  </a>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="40" alt="dart logo"  />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="40" alt="android logo"  />
+  <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge" height="40" alt="gradle logo"  />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="40" alt="netlify logo"  />
 </div>
  
 ###
