@@ -8,7 +8,7 @@
 
 <img align="right" height="150" src="https://tenor.com/id/view/raining-pixel-gamer-pc-gif-16993848.gif"  />
 
-### 
+###
 
 <div align="left">
   <h3>A passionate mobile developer.</h3>
