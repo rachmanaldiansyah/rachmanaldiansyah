@@ -1,5 +1,3 @@
-<!-- <img src="https://komarev.com/ghpvc/?username=rachmanaldiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="rachmanaldiansyah" /> -->
-
 ###
 
 <h1>Hello! I'm Rachman Aldiansyah 👋</h1>
@@ -52,8 +50,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="40" alt="netlify logo"  />
 </div>
  
 ###
