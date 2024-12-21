@@ -10,7 +10,7 @@
 
 <div align="left">
   <h3>A passionate mobile developer</h3>
-  <p>🔭 I’m currently working on <strong>Flutter (Mobile Development)</strong></p>
+  <p>🔭 I’m currently working on <strong>Dart/Flutter (Mobile Development)</strong></p>
   <p>🌱 I’m currently learning on <strong>Dart/Flutter</strong></p>
   <p>👯 I’m looking to collaborate on <strong>Open Source Projects Related to Mobile App</strong></p>
 </div>
