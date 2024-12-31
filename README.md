@@ -9,10 +9,10 @@
 ###
 
 <div align="left">
-  <h3>A passionate mobile developer</h3>
-  <p>🔭 I’m currently working on <strong>Dart/Flutter (Mobile Development)</strong></p>
-  <p>🌱 I’m currently learning on <strong>Dart/Flutter</strong></p>
-  <p>👯 I’m looking to collaborate on <strong>Open Source Projects Related to Mobile App</strong></p>
+  <h3>A passionate mobile & web developer</h3>
+  <p>🔭 I’m currently working on <strong>Dart/Flutter (Mobile Development), Vue/Nuxt & Django</strong></p>
+  <p>🌱 I’m currently learning on <strong>Dart/Flutter, Vue/Nuxt & Django</strong></p>
+  <p>👯 I’m looking to collaborate on <strong>Open Source Projects Related to Mobile & Web App</strong></p>
 </div>
 
 ###
@@ -50,6 +50,9 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=black&style=for-the-badge" height="40" alt="nuxtjs logo"  />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="django logo"  />
 </div>
  
 ###
